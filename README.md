@@ -6,6 +6,8 @@
 
 # API documentation
 - Swagger: http://localhost:3000/api
+- ![Screenshot 2023-09-30 at 11.13.15.png](images%2FScreenshot%202023-09-30%20at%2011.13.15.png)
+- ![Screenshot 2023-09-30 at 11.13.34.png](images%2FScreenshot%202023-09-30%20at%2011.13.34.png)
 
 # Project structure
 - src
